@@ -1,0 +1,108 @@
+{
+  "name": "Fern & Field",
+  "short": "Fern & Field",
+  "tagline": "Houseplants that arrive happy.",
+  "mark": "F",
+  "heroEyebrow": "Grown in our own glasshouse",
+  "heroTitle": "Bring something living home.",
+  "heroBody": "Healthy houseplants, potted and ready, sent in packaging that keeps them upright. Each one comes with a care card written by the person who grew it.",
+  "heroPhoto": "1684520976246-024aae3d8158",
+  "heroAlt": "A monstera plant against a terracotta wall",
+  "gridTitle": "Plants and the things they need",
+  "perks": [
+    {
+      "title": "Arrives healthy or replaced",
+      "body": "Tell us within 30 days."
+    },
+    {
+      "title": "Potted and ready",
+      "body": "No repotting needed for a year."
+    },
+    {
+      "title": "Care card included",
+      "body": "Light, water and what to watch for."
+    }
+  ],
+  "shipping": "Ships Monday to Wednesday so plants never sit in a depot over a weekend",
+  "closing": {
+    "title": "Not sure where to start?",
+    "body": "The snake plant forgives almost anything: low light, missed waterings, a dry flat. It is the plant we give to people who say they kill plants."
+  },
+  "products": [
+    {
+      "sku": "FF-MONSTERA",
+      "name": "Monstera Deliciosa Houseplant in Terracotta Pot",
+      "priceCents": 3800,
+      "category": "Houseplants",
+      "photo": "1653404809389-f370ea4310dd",
+      "badge": "Bestseller",
+      "blurb": "Split leaves, fast growing, bright indirect light.",
+      "description": "A Monstera deliciosa houseplant, about 45 cm tall, with its first split leaves, in a 15 cm terracotta pot.",
+      "features": [
+        "About 45 cm tall",
+        "15 cm terracotta pot",
+        "Bright, indirect light"
+      ]
+    },
+    {
+      "sku": "FF-SNAKE",
+      "name": "Snake Plant Laurentii Houseplant",
+      "priceCents": 2800,
+      "category": "Houseplants",
+      "photo": "1687552212914-03a30c82053c",
+      "badge": "Hard to kill",
+      "blurb": "Upright striped leaves. Thrives on neglect.",
+      "description": "A snake plant (Sansevieria laurentii) houseplant with yellow-edged upright leaves, about 40 cm tall. Tolerates low light and missed waterings.",
+      "features": [
+        "About 40 cm tall",
+        "Water every two to three weeks",
+        "Fine in low light"
+      ]
+    },
+    {
+      "sku": "FF-POTHOS",
+      "name": "Marble Queen Pothos Houseplant in White Pot",
+      "priceCents": 2400,
+      "category": "Houseplants",
+      "photo": "1596724878582-76f1a8fdc24f",
+      "badge": null,
+      "blurb": "Trailing vines with cream marbling.",
+      "description": "A Marble Queen pothos houseplant with cream-marbled trailing leaves, in a white ceramic pot. Happy on a shelf or in a hanger.",
+      "features": [
+        "Trailing, easy to propagate",
+        "White ceramic pot included",
+        "Medium light"
+      ]
+    },
+    {
+      "sku": "FF-ECHEVERIA",
+      "name": "Echeveria Succulent in Mint Ceramic Pot",
+      "priceCents": 1900,
+      "category": "Houseplants",
+      "photo": "1485955900006-10f4d324d411",
+      "badge": null,
+      "blurb": "A rosette for a sunny windowsill.",
+      "description": "An echeveria succulent in a mint-green ceramic pot, 10 cm across. Needs a sunny windowsill and very little water.",
+      "features": [
+        "10 cm ceramic pot",
+        "Water once a fortnight",
+        "Full sun"
+      ]
+    },
+    {
+      "sku": "FF-CAN",
+      "name": "Yellow Steel Watering Can, 1.5 Litre",
+      "priceCents": 3200,
+      "category": "Garden tools",
+      "photo": "1692651771569-95dd3ed878a8",
+      "badge": null,
+      "blurb": "Long spout for getting under the leaves.",
+      "description": "A powder-coated yellow steel watering can with a long narrow spout, 1.5 litre. Made for indoor plants.",
+      "features": [
+        "1.5 litre",
+        "Powder-coated steel",
+        "Long spout for indoor pots"
+      ]
+    }
+  ]
+}
